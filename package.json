@@ -1,0 +1,22 @@
+{
+  "name": "quotegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sJain3245@github.com/sJain3245/quoteGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sJain3245/quoteGenerator/issues"
+  },
+  "homepage": "https://github.com/sJain3245/quoteGenerator#readme",
+  "dependencies": {
+    "particlesjs": "^2.2.3"
+  }
+}
