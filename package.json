@@ -15,8 +15,7 @@
   "bugs": {
     "url": "https://github.com/sJain3245/quoteGenerator/issues"
   },
-  "homepage": "https://github.com/sJain3245/quoteGenerator#readme",
+  "homepage": "https://github.com/sJain3245/quoteGenerator",
   "dependencies": {
-    "particlesjs": "^2.2.3"
   }
 }
