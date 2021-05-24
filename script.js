@@ -1,12 +1,3 @@
-import Particles from 'node_modules/particlesjs/dist/particles.min.js';
-var particles = Particles.init({
-	selector: '.background',
-    color: ['#03045E','#023E8A','#0077B6','#0096C7','#00B4D8','#48CAE4','#90E0EF','#ADE8F4','#CAF0F8'],
-    connectParticles: false,
-    maxParticles: 450,
-    speed: 0.75
-});
-
 const qouteContainer = document.getElementById('quote-container');
 const qouteText= document.getElementById('quote');
 const authorText = document.getElementById('author');
